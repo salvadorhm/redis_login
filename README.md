@@ -1,2 +1,1 @@
-# redis_login
-Ejemplo básico de un control de sesión con REDIS
+# Ejemplo básico de manejo de sesión con REDIS
